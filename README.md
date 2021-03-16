@@ -9,6 +9,10 @@
 ![https://wireframe.cc/jQaoge] (url)
 
 - Applications Page
+
+![https://wireframe.cc/xRllPQ] (url)
+
+- Connections Page
 ### MVP
 #### Goals
 #### Libraries
