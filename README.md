@@ -13,6 +13,10 @@
 ![https://wireframe.cc/xRllPQ] (url)
 
 - Connections Page
+
+![https://wireframe.cc/X5bcFA] (url)
+
+- Interviews Page
 ### MVP
 #### Goals
 #### Libraries
